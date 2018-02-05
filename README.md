@@ -1,1 +1,2 @@
 # Cache_Analysis
+CPU Cache is utilized to reduce the average cost (time or energy) to access data from the main memory. It is critical that we identify and copy the data from frequently used main memory locations. In this demo I try to analyze the trace of memory for a running software. The memory address trace data is analyzed for possible insights to make cache memory addresses more efficient (with a higher cache hit rate). 
